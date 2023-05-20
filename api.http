@@ -1,0 +1,8 @@
+GET http://localhost:3040/api/me
+content-type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjEsImVtYWlsIjoiYWRtaW5AaW52ZXJzZWFwcHMuY29tIiwibmFtZSI6IkFkbWluIiwiaWF0IjoxNjg0NjA1MjYyLCJleHAiOjE2ODQ2OTE2NjJ9.xFpEMIDk7NbNijVueWh4c5mcQlt6A9sOdwheoi6UIqs
+
+{
+    "email": "admin@inverseapps.com",
+    "password": "12345"
+}
